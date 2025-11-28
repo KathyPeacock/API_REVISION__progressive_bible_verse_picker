@@ -1,6 +1,4 @@
- # ===========================================================================
-🌈 PROGRESSIVE & INCLUSIVE BIBLE VERSES API Testing & Integrating Project🌈
-===========================================================================
+ # 🌈 PROGRESSIVE & INCLUSIVE BIBLE VERSES API Testing & Integrating Project🌈
 
 *A quick revision project completed during my Makers software testing bootcamp to practice API testing fundamentals through both manual and automated approaches. I'm a career-switcher into tech, with experience spanning the acting world and academic Theology - so utilising Bible API felt like a fun approach!*
 
